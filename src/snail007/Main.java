@@ -46,7 +46,7 @@ public class Main extends PFrame {
                 jSeparator2 = new javax.swing.JPopupMenu.Separator();
                 jMenuItem3 = new javax.swing.JMenuItem();
 
-                setTitle("GoProxy v4.8");
+                setTitle("GoProxy v6.0");
 
                 jTable1.setModel(new javax.swing.table.DefaultTableModel(
                         new Object [][] {
