@@ -20,7 +20,7 @@ public class Main extends PFrame {
 	public Main() {
 		super();
 		initComponents();
-		this.setTitle(this.getTitle()+" (sdk v"+ProxyJNI.PLibrary.INSTANCE.Version()+")");
+		this.setTitle(this.getTitle()+" (sdk "+ProxyJNI.PLibrary.INSTANCE.Version()+")");
 		Utils.init(this);
 		new MySystemTray(this).setTray();
 		
@@ -46,7 +46,7 @@ public class Main extends PFrame {
                 jSeparator2 = new javax.swing.JPopupMenu.Separator();
                 jMenuItem3 = new javax.swing.JMenuItem();
 
-                setTitle("GoProxy v6.9");
+                setTitle("GoProxy v7.1");
 
                 jTable1.setModel(new javax.swing.table.DefaultTableModel(
                         new Object [][] {
