@@ -1,5 +1,7 @@
 # goproxy-jui
   
+  此项目不再更新，请使用更强大的全平台桌面web版：[ProxyAdmin](https://github.com/snail007/proxy_admin_free)
+  
 [![stable](https://img.shields.io/badge/stable-stable-green.svg)](https://github.com/snail007/goproxy-jui/) [![license](https://img.shields.io/github/license/snail007/goproxy-jui.svg?style=plastic)]() [![download_count](https://img.shields.io/github/downloads/snail007/goproxy-jui/total.svg?style=plastic)](https://github.com/snail007/goproxy-jui/releases) [![download](https://img.shields.io/github/release/snail007/goproxy-jui.svg?style=plastic)](https://github.com/snail007/goproxy-jui/releases)   
 Desktop version of https://github.com/snail007/goproxy , windows and linux are supported.Writting in java.  
 
